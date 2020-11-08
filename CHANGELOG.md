@@ -1,3 +1,6 @@
+## 20201109
+* build with usb-printer, lsblk, vim
+
 ## 20201102
 * 常规更新
 
