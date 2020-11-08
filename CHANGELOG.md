@@ -1,4 +1,7 @@
 ## 20201109
+* aria2 error, disable aria2     
+
+## 20201109
 * Build with usb-printer, lsblk, vim     
 
 ## 20201102
